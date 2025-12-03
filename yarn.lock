@@ -10829,7 +10829,6 @@ eslint-module-utils@^2.12.0:
 
 "eslint-plugin-bsky-internal@link:./eslint":
   version "0.0.0"
-  uid ""
 
 eslint-plugin-eslint-comments@^3.2.0:
   version "3.2.0"
@@ -17079,9 +17078,9 @@ react-responsive@^9.0.2:
     shallow-equal "^1.2.1"
 
 react-server-dom-webpack@~19.0.0:
-  version "19.0.0"
-  resolved "https://registry.yarnpkg.com/react-server-dom-webpack/-/react-server-dom-webpack-19.0.0.tgz#c60819b6cb54e317e675ddc0c5959ff915b789d0"
-  integrity sha512-hLug9KEXLc8vnU9lDNe2b2rKKDaqrp5gNiES4uyu2Up3FZfZJZmdwLFXlWzdA9gTB/6/cWduSB2K1Lfag2pSvw==
+  version "19.0.1"
+  resolved "https://registry.yarnpkg.com/react-server-dom-webpack/-/react-server-dom-webpack-19.0.1.tgz#0fa66dd7eea5f9d92c6fd4b52e1a303bae5e2df3"
+  integrity sha512-RdiENR3uo87Te0jZbFcCLX1chzpwFGLqN35h7n5pgGNiXqWnz43ly94uyCiy4X8zx3swjYYULHmJvwK1P5HBig==
   dependencies:
     acorn-loose "^8.3.0"
     neo-async "^2.6.1"
